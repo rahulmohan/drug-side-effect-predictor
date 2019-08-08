@@ -1,2 +1,2 @@
 # drug-side-effect-predictor
-Drug side effect predictor by Rahul Mohan and Alex Yin.
+Drug side effect predictor by Serge Mankovski, Rahul Mohan and Alex Yin.
